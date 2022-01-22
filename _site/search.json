@@ -2,19 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Abdul M Khan",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-22T23:04:04+06:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          Abdul M Khan\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          Abdul M Khan\r\n          \r\n            \r\n                \r\n                  \r\n                    Google Scholar\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n\r\n        \r\n          \r\n      \r\n      \r\n        \r\n          I am Abdul Mahidud Khan, Currently working in Bangladesh University of Professionals as a lecturer of economics.I have completed my bachelors and masters from Jahangirnagar University, Bangladesh. I am in academia for more than four years after completion of my masters. I was research fellow at the Friedrich Ebert Stiftung for their program Economies of Tomorrow and then I joined at Bangladesh University of Professionals. I have conducted several research projects of my own and involved in various other projects where I had different responsibilities. Also, I wrote few research papers too. I am proficient in R, Stata, ODK, and LaTeX.\r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Abdul M Khan\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      Google Scholar\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I am Abdul Mahidud Khan, Currently working in Bangladesh University of Professionals as a lecturer of economics.I have completed my bachelors and masters from Jahangirnagar University, Bangladesh. I am in academia for more than four years after completion of my masters. I was research fellow at the Friedrich Ebert Stiftung for their program Economies of Tomorrow and then I joined at Bangladesh University of Professionals. I have conducted several research projects of my own and involved in various other projects where I had different responsibilities. Also, I wrote few research papers too. I am proficient in R, Stata, ODK, and LaTeX.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-01-22T23:49:45+06:00"
     },
     {
       "path": "index.html",
       "title": "Abdul M Khan",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Hey There. You found my personal website. You can find what I have been up to lately. Also, you can learn more about me. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-22T23:04:05+06:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-22T23:49:46+06:00"
     }
   ],
   "collections": []

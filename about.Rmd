@@ -1,10 +1,17 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Abdul M Khan"
+image: "tombo.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=oT2xHagAAAAJ&hl=en&oi=sra"
+  - label: Twitter
+    url: "https://twitter.com/abdulmkhan_BUP"
+  - label: GitHub
+    url: "https://github.com/abdulmkhan901"
+  - label: Email
+    url: "mailto:abdulmkhan901@gmail.com"
+output:
+  postcards::solana
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+ 
+I am Abdul Mahidud Khan, Currently working in Bangladesh University of Professionals as a lecturer of economics.I have completed my bachelors and masters from Jahangirnagar University, Bangladesh. I am in academia for more than four years after completion of my masters. I was research fellow at the Friedrich Ebert Stiftung for their program Economies of Tomorrow and then I joined at Bangladesh University of Professionals. I have conducted several research projects of my own and involved in various other projects where I had different responsibilities. Also, I wrote few research papers too. I am proficient in R, Stata, ODK, and LaTeX. 

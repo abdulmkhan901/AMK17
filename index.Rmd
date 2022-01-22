@@ -1,7 +1,7 @@
 ---
 title: "Abdul M Khan"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Hey There. You found my personal website. You can find what I have been up to lately. Also, you can learn more about me. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -12,4 +12,5 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-
+![](laputa041.jpg){height=400px width=420x}
+---
